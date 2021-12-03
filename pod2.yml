@@ -8,5 +8,5 @@ spec:
     image: nginx
     ports:
     - containerPort: 8080
-  - name: container1
+  - name: container2
     image: afakharany/watcher:latest
